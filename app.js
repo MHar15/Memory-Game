@@ -1,3 +1,4 @@
+document.addEventListener('DOMContentLoaded', () => {
 const cardArray = [
   {
     name: 'fries',
@@ -109,3 +110,4 @@ function flipCard() {
 }
 
 createBoard ()
+})
